@@ -7,8 +7,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Righteous&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <script type="module" crossorigin src="/assets/index-BnCfYwYe.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-CJtFvCg3.css">
+    <script type="module" crossorigin src="sun-y-c.github.io/index.js"></script>
+    <link rel="stylesheet" crossorigin href="sun-y-c.github.io/index.css">
   </head>
   <body>
     <div id="root"></div>
